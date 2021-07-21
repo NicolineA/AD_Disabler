@@ -6,6 +6,7 @@ When the script is run using run.bat it will automatically ask for Admin rights 
 
 # Pictures
 ## When first run you will be asked to enter a SearchBase
+The script will auto fill this section in based on your current computer's distinguished name. This way you will just have to removed infromation from the begining until you are left with where you want to search for the computers you will disable.
 
 ![image](https://user-images.githubusercontent.com/56235254/126362952-79d26ce4-9cde-471a-923f-fba72eb936dd.png)
 
