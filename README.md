@@ -1,8 +1,8 @@
 # AD_Disabler
 
-AD Disabler is designed to have multiple computers that are named based on an asset number or serial number disabled.
+AD Disabler is designed to disable multiple computers by their asset or serial number.
 
-When the script is run using run.bat it will automatically ask for Admin rights and only run the ps1 file if you are admin.
+When the script is run using run.bat, it will automatically ask for Admin rights and only run the ps1 file if you are admin.
 
 # Pictures
 ## When first run you will be asked to enter a SearchBase
